@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- The compass spans 24.3..83.7: 59.4dp, or 90% of the 66dp safe zone. -->
+    <path
+        android:fillColor="#17324D"
+        android:pathData="M54,24.3L60.6,47.4L83.7,54L60.6,60.6L54,83.7L47.4,60.6L24.3,54L47.4,47.4z" />
+    <path
+        android:fillColor="#FF5F57"
+        android:pathData="M54,28.7L54,51.1L49.7,48.3z" />
+    <path
+        android:fillColor="#FF9A75"
+        android:pathData="M54,28.7L58.3,48.3L54,51.1z" />
+    <path
+        android:fillColor="#FFF7DD"
+        android:pathData="M79.3,54L56.9,54L59.7,49.7z" />
+    <path
+        android:fillColor="#FFD447"
+        android:pathData="M79.3,54L59.7,58.3L56.9,54z" />
+    <path
+        android:fillColor="#9CEBFF"
+        android:pathData="M54,79.3L54,56.9L58.3,59.7z" />
+    <path
+        android:fillColor="#FFF7DD"
+        android:pathData="M54,79.3L49.7,59.7L54,56.9z" />
+    <path
+        android:fillColor="#FFD447"
+        android:pathData="M28.7,54L51.1,54L48.3,58.3z" />
+    <path
+        android:fillColor="#FFF7DD"
+        android:pathData="M28.7,54L48.3,49.7L51.1,54z" />
+    <path
+        android:fillColor="#17324D"
+        android:pathData="M54,49.8A4.2,4.2 0,1 1,54 58.2A4.2,4.2 0,1 1,54 49.8" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,52A2,2 0,1 1,54 56A2,2 0,1 1,54 52" />
+</vector>

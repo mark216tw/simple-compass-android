@@ -18,6 +18,18 @@
 - 保持螢幕常亮選項
 - 所有設定使用 DataStore 保存在裝置上
 
+## APP 圖示
+
+APP 使用活潑、友善的粗線條卡通指南針圖示，採用 Android Adaptive Icon 前景與背景雙層結構：
+
+- 最終尺寸：`108 × 108 dp`
+- 外框裁切區：`72 × 72 dp`
+- 核心安全區：`66 × 66 dp`
+- 指南針核心：`59.4 × 59.4 dp`，佔安全區 90%
+- 前景：四色四向指南針，北向以珊瑚紅強調
+- 背景：青綠色純色背景
+- Android 13 以上支援單色主題圖示
+
 ## 系統需求
 
 - Android 8.0（API 26）以上
@@ -75,6 +87,12 @@ Debug APK 會產生在：
 ```text
 app/build/outputs/apk/debug/app-debug.apk
 ```
+
+## Debug 版本下載
+
+[GitHub Releases](https://github.com/mark216tw/simple-compass-android/releases) 提供可直接安裝的 Debug APK，並以 **Pre-release** 標示。
+
+Debug APK 使用 Android Debug 憑證簽署，只適合功能測試與體驗，不是正式發佈或 Google Play 商店版本。
 
 ## 測試與檢查
 
